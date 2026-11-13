@@ -52,6 +52,7 @@ this is a WIP, a Read the Docs website is planned
 - Modular
 - Lightweight
 - Rapid Updates
+- Add don't overwrite
 
 [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 - Do one thing and do it well
