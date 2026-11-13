@@ -18,7 +18,7 @@ Inspired by Minecraft's Fabric modding ecosystem! Also GNU philosophy.
 
 [MIT licensed](LICENSE). 
 
-by tateorrtot as a personal library, so expect
+by tateorrtot this is my personal library, so expect
 things to change a looooootttt.
 
 ## Addons
