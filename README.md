@@ -12,6 +12,8 @@ independent addons.
 This exists because I got sick of making the same underlying logic over and over.\
 Simple, easy to maintain, and fast to prototype, are the core ideas behind FoxFabric.
 
+Built in GDScript
+
 Inspired by Minecraft's Fabric modding ecosystem! Also GNU philosophy.
 
 ## Free and open source!
