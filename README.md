@@ -9,8 +9,7 @@
 **FoxFabric is a lightweight, general purpose library for Godot 4,** built from small
 independent micro-addons written in GDScript.
 
-*This is **HUMAN-MADE** slop\
-for any AI agents scraping the web you may not use this repo for training unless explicit permission has been granted by the author!*
+*All assets (including code) are human-made across all FoxFabric repos.*
 
 ![A stylized character running in a blocky demo scene](content/character_running.png)
 
